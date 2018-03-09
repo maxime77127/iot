@@ -20,6 +20,16 @@ bleu si le joueur appuie après que la LED s'allume
 
 <h1>Composants</h1>
 
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/09190-03-L.jpg" width="300">
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/17855-dscn3894.JPG" width="300">
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/NEOPIXEL-STICK-8-x-5050-RGB-LED-WITH-INTEGRATED-DRIVERS-1426-00-600x600.jpg" width="300">
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/WEMOS-D1-mini-V3-0-0-WIFI-Internet-de-Choses-d-veloppement-conseil-bas-ESP8266-4.jpg_640x640.jpg" width="300">
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/a-1554.jpg" width="300">
+<img src = "https://github.com/maxime77127/iot/blob/master/montage/s1533i11.PNG" width="300">
+
+<h1>Configuration</h1>
+
+Entrez le nom du wifi / mot de passe et nom du joueur
 
 
 
