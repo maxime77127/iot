@@ -30,7 +30,10 @@ bleu si le joueur appuie après que la LED s'allume
 <h1>Configuration</h1>
 
 Entrez le nom du wifi / mot de passe et nom du joueur
-
+#include <Adafruit_NeoPixel.h>
+#include "pitches.h"
+#include <WiFiClient.h>
+#include <ESP8266WebServer.h>
 
 
 
